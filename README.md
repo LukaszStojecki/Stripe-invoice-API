@@ -22,9 +22,9 @@ POST http://localhost:8080/v1/{customerId}
 
 - example  customerId =cus_4QE0v7gcdox28x 
 
-GET http://localhost:8080/v1/invoices/{invoiceId} 
+GET http://localhost:8080/v1/invoices/{id} 
 
-- example in_1Js9mj2eZvKYlo2CTU0HMimX
+- example id = in_1Js9mj2eZvKYlo2CTU0HMimX
 
 ## How to use
 $ https://github.com/LukaszStojecki/Stripe-invoice-API.git
